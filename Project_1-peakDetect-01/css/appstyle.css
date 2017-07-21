@@ -1,0 +1,38 @@
+html, body {  /* Select and size the outermost elements so other elements can be set in % */
+	height:100%;
+	width:99%;
+
+
+}
+
+body {
+   font: 24px Helvetica;
+   color: red;
+   background-color: rgba(0, 10, 0, .91);
+  align-content: center;
+  }
+
+ #audioDiv{
+   text-align: left;
+   padding: 50px;
+   height: 100%;
+ }
+a{
+
+  font-size: 14px;
+}
+    
+ 
+
+
+
+  
+
+   
+   
+   
+
+  
+
+ 
+  
